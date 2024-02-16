@@ -1,0 +1,3 @@
+Developing a fully authenticated e-commerce websites with advanced features, including sorting and filtering capabilities for efficient product navigation. Implementing essential functionalities such as purchasing, cart management, product review, and rating systems. Integrating secure payment gateways by using Razorpay to facilitate seamless transactions. There is a order tracking functionalities post-payment for enhanced customer experience.
+
+
